@@ -1,8 +1,6 @@
 .display-grid {
   display: flex;
 }
-.display-grid .txt-right {
-}
 .img {
   width: 82rem;
   max-height: 90vh;
